@@ -1,1 +1,1 @@
-hai this this first batch file
+echo bulding the project on %date%: %time%
